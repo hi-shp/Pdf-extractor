@@ -47,7 +47,6 @@
     ```bash
     python main.py
 
-
 ---
 
 ## 사용 방법
